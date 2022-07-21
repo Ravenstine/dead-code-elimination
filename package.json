@@ -13,6 +13,6 @@
     "babel": "^6.23.0",
     "babel-plugin-istanbul": "^6.0.0",
     "ember-source": "^3.18.1",
-    "terser": "^4.7.0"
+    "terser": "^4.8.1"
   }
 }
